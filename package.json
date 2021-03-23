@@ -1,0 +1,25 @@
+{
+  "name": "galutinisbd",
+  "version": "1.0.0",
+  "description": "Galutinis Baigiamasis Darbas",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AurelijaMaz/galutinisBD.git"
+  },
+  "keywords": [
+    "Mongo",
+    "Express",
+    "React",
+    "Node"
+  ],
+  "author": "Aurelija MAzeikiene",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AurelijaMaz/galutinisBD/issues"
+  },
+  "homepage": "https://github.com/AurelijaMaz/galutinisBD#readme"
+}
