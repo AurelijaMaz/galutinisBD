@@ -13,6 +13,7 @@ const { SERVER_PORT,
 
 //Midlewares
 server.use(cors());
+server.use(express.json());
 
 //Add routes
 
