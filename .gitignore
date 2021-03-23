@@ -1,3 +1,7 @@
+# ignoruoja package-lock.json aplankus ir juose esantį turinį
+package-lock.json
+
+
 # Logs
 logs
 *.log
